@@ -1,0 +1,14 @@
+#box1{
+    border: 1px solid;
+    height: auto;
+    width: auto;
+    background-color: lightgray;
+    text-align: center;
+    position: static;
+    margin: auto;
+
+}
+h1{
+    text-align: center;
+    margin: 20px 20px;
+}
